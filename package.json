@@ -1,0 +1,25 @@
+{
+  "name": "starwarswatcher",
+  "version": "0.0.1",
+  "description": "A simple star wars watcher app with chromecast embedded",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeitounCorp/starWarsWatcher.git"
+  },
+  "keywords": [
+    "electron",
+    "nodeJs",
+    "javascript",
+    "starwars"
+  ],
+  "author": "lenny zeitoun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeitounCorp/starWarsWatcher/issues"
+  },
+  "homepage": "https://github.com/ZeitounCorp/starWarsWatcher#readme"
+}
